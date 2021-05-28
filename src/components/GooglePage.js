@@ -13,7 +13,7 @@ class GooglePage extends Component {
             <div className="firstPage">
                 <nav className="navigation">
                     <div className="navbar">
-                        <a href="https://mail.google.com/mail/u/0/?ogbl">Почта</a>
+                        <a href="https://mail.google.com/">Почта</a>
                         <a href="https://www.google.ro/imghp?hl=ru&authuser=0&ogbl">Картинки</a>
                         <div className="appBox">
                             <AppsIcon className="app" />
